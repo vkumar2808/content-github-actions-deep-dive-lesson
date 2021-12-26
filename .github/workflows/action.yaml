@@ -1,0 +1,6 @@
+name: deploy our lamda function
+
+on:
+  push: 
+    branches:
+      - main
